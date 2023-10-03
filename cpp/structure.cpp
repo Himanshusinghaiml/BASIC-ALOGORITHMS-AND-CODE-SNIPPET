@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace  std;
 struct  student
-{
+{  // structure does not provide security but classes provide security 
+// with th help of access modifier like private ,protected , public
     int roll_no;
     string  name;
 };
