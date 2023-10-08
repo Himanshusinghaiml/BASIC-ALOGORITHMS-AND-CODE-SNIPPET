@@ -3,7 +3,7 @@ using namespace std;
  void bubblesort(int arr[],int n)
  {  
     // best case
-    // average case
+    // average case O(n^2)
     // worst case
  }
  void insertionsort(int arr[],int n)
