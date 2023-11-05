@@ -53,7 +53,7 @@ int main()
          arr.push_back(x);
     }
    int target=90;
-
+   // we can define function in also conditionn , do not need define explicitly 
     if(binary(arr,target))cout<<" yes element found";else cout<<" not found";
     return 0;
 }
