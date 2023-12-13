@@ -4,8 +4,19 @@ this repository  is made for only code snippet problem . varios types of questio
 
 #python #
 python application :
+ 
+ ##Data field
+
 1. data science
 2. machine learning
 3. deep learning
 4. Natural processing language
-5.       
+5. computer vision   
+
+## web application 
+
+1. python@Backend
+2. Django
+3. database ##mysql ###sqlite3
+4. Rest APIs(DRF)
+5. security 
