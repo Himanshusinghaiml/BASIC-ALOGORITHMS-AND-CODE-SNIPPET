@@ -20,6 +20,6 @@ python application :
 
 1. python@Backend
 2. Django
-3. database ##mysql ###sqlite3
+3. database #mysql ###sqlite3
 4. Rest APIs(DRF)
 5. security 
