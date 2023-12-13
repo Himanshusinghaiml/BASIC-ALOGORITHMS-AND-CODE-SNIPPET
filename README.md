@@ -3,4 +3,9 @@ this repository  is made for only code snippet problem . varios types of questio
 #basic coding
 
 #python #
-           
+python application :
+1. data science
+2. machine learning
+3. deep learning
+4. Natural processing language
+5.       
