@@ -1,0 +1,21 @@
+git remote -v
+git push --force   for every branch changed using this command 
+for specific command -git push -f origin master
+
+git branch - show all the list of github branch
+
+
+git remote set-url origin https://git-repo/new-repository.git(to change the url)
+
+
+git remote add origin  (link)   to add new link of github repo
+
+ git push -f origin master
+
+------------------------------------------------
+if we working with collaborators then we need these command :-
+1. add new branch :- git branch ( new branch name)
+2. rename branch :- git branch -m (new name of branch)
+3. git status - to check current status
+4. git checkout -: to change or switch another branch 
+5. git merge (branch name - which use here those branch u want to merge in current branch avalaible )
