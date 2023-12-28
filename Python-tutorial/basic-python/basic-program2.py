@@ -24,7 +24,9 @@ print(p,type(p)) # it is same things in list only changing in tuple if i defned 
  '''
  
 for i in range(1,11,1):
-    print(i)
+    print(i,end=' ')
 print() 
 for i in range(10,0,-1):
     print(i)
+    
+ 

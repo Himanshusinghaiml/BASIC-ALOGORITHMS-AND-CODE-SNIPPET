@@ -30,3 +30,5 @@ himanshu()
 
 h=lambda:print("in lamda without statement working or not? yes it will also work ")
 h()
+
+#making a api is very benficial  for backend side 
