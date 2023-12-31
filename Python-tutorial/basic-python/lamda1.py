@@ -33,6 +33,6 @@ h()
 
 #making a api is very benficial  for backend side 
 
-function based api
-class based api
+# function based api
+# class based api
 
