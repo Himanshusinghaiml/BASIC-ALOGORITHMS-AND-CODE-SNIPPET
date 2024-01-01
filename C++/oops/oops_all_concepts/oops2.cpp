@@ -8,18 +8,32 @@ class sum
     public:
     void set(int a,int b)
     {
-        this->a=a;
-        this->b=b;
+           a=a;
+           b=b;
+    }
+    void set1(int f,int f1)
+    {
+          a=f;
+          b=f1;
+    }
+    int getans()
+    {
+        return  a+b;
     }
     int get()
     {
-        return a+b;
+        // return a+b;
+        return  a+b;
     }
 };
 int main()
 {  
      
     sum ob;
+    ob.set1(50,50);
+    cout<<ob.getans()<<endl;
+
+    
     ob.set(20,20);
     cout<<ob.get();
 

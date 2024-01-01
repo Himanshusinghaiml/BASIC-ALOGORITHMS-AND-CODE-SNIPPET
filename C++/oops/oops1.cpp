@@ -10,8 +10,6 @@ class myname
     {
         cout<<"this is method and also function : "<<" hello wrold : "<<endl;
     }
-
-
 };
 int main()
 {
