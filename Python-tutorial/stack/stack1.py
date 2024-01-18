@@ -9,12 +9,11 @@ class stack:
         if len(self.list)>0:
            self.list.pop()
         else:
-            print("statck is empy ")
+            print("statck is empty")
             
     def print_stack(self):
         for item in reversed(self.list):
             print(item,end=" ")
-
         
 s=stack()
 s.push(10)
