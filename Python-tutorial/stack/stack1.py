@@ -13,8 +13,7 @@ class stack:
             
     def print_stack(self):
         for item in reversed(self.list):
-            print(item,end=" ")
-        
+            print(item,end=" ")    
 s=stack()
 s.push(10)
 s.push(20)
