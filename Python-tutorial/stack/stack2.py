@@ -28,4 +28,10 @@ if ans==True:
     print(" yes prime number")
 else:
     print("not prime number")
- 
+
+
+'''
+ python is most powerful programming language , it is widely used in dara science field
+ and also in web development field , django framework for backend. 
+
+'''
