@@ -24,3 +24,25 @@ obj_mobile=mobile()
 call(obj_laptop)
 call(obj_mobile)
 # this is the example of polymorphism  to better understand , how its actually work .
+
+
+class Animal:
+    def sound(self):
+        print("Animal sound")
+
+class Dog(Animal):
+    def sound(self):
+        print("Woof!")
+
+class Cat(Animal):
+    def sound(self):
+        print("Meow!")
+
+def make_sound(animal):
+    animal.sound()
+
+dog = Dog()
+cat = Cat()
+
+make_sound(dog)  # Output: Woof!
+make_sound(cat)  # Output: Meow!

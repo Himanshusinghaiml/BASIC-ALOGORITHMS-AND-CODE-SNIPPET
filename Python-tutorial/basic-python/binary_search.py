@@ -11,12 +11,13 @@ def binary(list,key):
         else:
             last=mid-1
     return  -1
+
 def linear(list,key):
     for i in range(len(list)):
         if (list[i]==key):
             return i
     return None
-
+#reverse program 
 
 def reverse(num):
     ans=0

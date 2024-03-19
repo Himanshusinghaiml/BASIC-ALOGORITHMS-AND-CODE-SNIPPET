@@ -7,6 +7,7 @@ polymorphism
 abstraction
 inheritance 
  '''
+ 
 class calculator:
     def __init__(self,num) -> None:
         self.value=num
